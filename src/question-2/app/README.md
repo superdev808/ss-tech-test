@@ -1,4 +1,4 @@
-# React Bookings List
+# SS-Tech-Test Question 2
 
 A simple list of bookings using React and Typescript, useful for pairing on in interviews.
 
